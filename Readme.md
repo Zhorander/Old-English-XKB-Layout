@@ -34,6 +34,8 @@ They are:
 * alt mod + shift + d -> Ð
 * alt mod + y -> ꝥ
 * alt mod + shift + y -> Ꝥ
+* alt mod + o -> œ
+* alt mod + shift + o -> Œ
 
 ## The Alternate Mod Key
 
