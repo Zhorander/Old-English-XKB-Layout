@@ -7,8 +7,6 @@
     <layout>
       <configItem>
         <name>us</name>
-        <shortDescription>us</shortDescription>
-        <description>English (Old English)</description>
       </configItem>
 
       <variantList>
