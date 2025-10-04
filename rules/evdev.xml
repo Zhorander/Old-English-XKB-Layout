@@ -14,7 +14,14 @@
           <configItem>
             <name>old</name>
             <shortDescription>old</shortDescription>
-            <description>English (Old English)</description>
+            <description>English (Old English Compat)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>oldremap</name>
+            <shortDescription>oldremap</shortDescription>
+            <description>English (Old English Re-map)</description>
           </configItem>
         </variant>
       </variantList>
